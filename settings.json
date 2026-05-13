@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Galax.aternos.me",
-    "port": 24002,
-    "version": "1.21.11",
+    "ip": "gus_v_metro.aternos.me",
+    "port": 55035,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
